@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - ☕  🧳 🕵🏽  **Fun fact:** Coffee addict | Digital nomad |[INTJ](https://www.kaine.pro/personality)
     
 ---
-[![Google Cloud Architect](https://github.com/kainepro/kainepro/blob/master/badges/gcp.png)](https://www.credential.net/b0b7440f-1550-46e5-8ac4-9d2649a7e1f1)
+### [![Google Cloud Architect](https://github.com/kainepro/kainepro/blob/master/badges/gcp.png)](https://www.credential.net/b0b7440f-1550-46e5-8ac4-9d2649a7e1f1)
