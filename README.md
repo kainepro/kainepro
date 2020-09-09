@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ---
 
 - 🛠️   **Architecting:** digital platforms and services
-- 🤹🏽   **Areas of Expertise:** [Cloud Computing, Infrastructure As Code, Config Mgt.](https://www.linkedin.com/in/kainepro)
+- 🤹🏽   **Areas of Expertise:** Cloud Computing, Infrastructure As Code, Config Mgt., CI/CD Pipelines, K8s, APIs
 - 🧑🏽‍💻   **Ask me** about trying out the [MTN API Program](http://developer.mtn.com/)
 - ☕  🧳 🕵🏽  **Fun fact:** Coffee addict | Digital nomad |[INTJ](https://www.kaine.pro/personality)
     
