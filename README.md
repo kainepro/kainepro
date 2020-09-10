@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🛠️   **Architecting:** digital platforms and services
 - 🤹🏽   **Areas of Expertise:** Architecture, Cloud Computing, Infrastructure As Code, Config Mgt., CI/CD, K8s, APIs
 - 🧑🏽‍💻   **Ask me** about trying out the [MTN API Program](http://developer.mtn.com/)
-- ☕  🧳 🕵🏽  **Fun fact:** Coffee addict | Digital nomad |[INTJ](https://www.kaine.pro/personality)
+- ☕  🧳 🕵🏽  **Fun fact:** Coffee addict | Digital nomad | [INTJ](https://www.kaine.pro/personality)
     
 ---
 [![Google Cloud Architect](https://github.com/kainepro/kainepro/blob/master/badges/gcp.png)](https://www.credential.net/b0b7440f-1550-46e5-8ac4-9d2649a7e1f1)
