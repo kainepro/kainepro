@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm Kaine (pronounced _ka-ee-neh_). I'm an enterprise architect (systems thinker, agilist, and builder). My GitHub profile below provides a sneak peek about me, find out more on my [website]. (https://www.kaine.pro)
+
 ---
 
 - 🛠️   **Architecting (and Building):** digital platforms and services
