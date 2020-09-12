@@ -20,7 +20,7 @@ I'm Kaine (pronounced _ka-ee-neh_). I'm an enterprise architect - systems thinke
 ---
 
 - 🛠️   **Architecting (and Building):** digital platforms and services
-- 🤹🏽   **Areas of Expertise:** Architecture, Cloud Computing, Infrastructure As Code, Config Mgt., CI/CD, K8s, APIs
+- 🤹🏽   **Areas of Expertise:** Architecture, Cloud Computing, Infrastructure As Code, Serverless, Config Mgt., CI/CD, K8s, APIs
 - 🧑🏽‍💻   **Ask me** about trying out the [MTN API Program](http://developer.mtn.com/)
 - ☕  🧳 🕵🏽  **Fun fact:** Coffee addict | Digital nomad | [INTJ](https://www.kaine.pro/personality)
     
