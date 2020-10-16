@@ -1,4 +1,4 @@
-### 👋 Hello | Bonjour | 你好 | Hallo | Olá
+# 👋 Hello | Bonjour | 你好 | Hallo | Olá
 
 <!--
 **kainepro/kainepro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +22,7 @@ I'm Kaine (pronounced _ka-ee-neh_). I'm an enterprise architect - systems thinke
 - 🛠️   **Architecting (and Building):** digital platforms and services
 - 🤹🏽   **Expertise:** Architecture & Cloud Computing; Infrastructure As Code, Serverless, Config Mgt., CI/CD, K8s, APIs
 - 🧑🏽‍💻   **Ask me** about trying out the [MTN Developer Portal](http://developer.mtn.com/)
-- ☕  🧳 🕵🏽  **Fun fact:** Coffee addict | Digital nomad | [INTJ](https://www.kaine.pro/personality)
-    
+<!-- - ☕  🧳 🕵🏽  **Fun fact:** Coffee addict | Digital nomad | [INTJ](https://www.kaine.pro/personality) -->
+
 ---
 [![Google Cloud Architect](https://github.com/kainepro/kainepro/blob/master/badges/gcp.png)](https://www.credential.net/b0b7440f-1550-46e5-8ac4-9d2649a7e1f1)
