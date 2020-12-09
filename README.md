@@ -21,7 +21,7 @@ I'm Kaine (pronounced _ka-ee-neh_). I'm a Customer-obsessed Systems Thinker, Sol
 
 - 🛠️   **Architecting (and Building):** digital platforms and services
 - 🤹🏽   **Expertise:** Architecture & Cloud Computing; Infrastructure As Code, Serverless, Config Mgt., CI/CD, K8s, APIs
-- 🧑🏽‍💻   **Ask me** about trying out the [MTN Developer Portal](http://developer.mtn.com/)
+- 🧑🏽‍💻   **Ask me** about trying out the [MTN Developer Portal](https://developers.mtn.com/)
 <!-- - ☕  🧳 🕵🏽  **Fun fact:** Coffee addict | Digital nomad | [INTJ](https://www.kaine.pro/personality) -->
 
 ---
