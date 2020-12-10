@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Kaine (pronounced _ka-ee-neh_). I'm a Customer-obsessed Systems Thinker, Builder, and Architect. My GitHub profile below provides a summary about me, find out more on my [website](https://www.kaine.pro)
+I'm Kaine (pronounced _ka-ee-neh_). I'm a Customer-obsessed Systems Thinker, Architect, and Builder. My GitHub profile below provides a summary about me, find out more on my [website](https://www.kaine.pro)
 
 ---
 
