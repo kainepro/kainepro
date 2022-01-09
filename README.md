@@ -15,14 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Kaine (pronounced _ka-ee-neh_). I'm a Customer-obsessed Systems Thinker, Architect, and Builder. My GitHub profile below provides a summary about me, find out more on my [website](https://www.kaine.pro)
+I'm Kaine (pronounced _ka-ee-neh_). 
+I'm a customer-obsessed Enterprise Architect with over a decade of experience helping organizations make sense of their strategy by defining and managing enterprise IT and business architecture, driving innovation, leading transformation programs, and co-creating solutions to ensure business value. 
 
----
+🛠️ **Focus:** Enterprise and Business Architecture - Emerging Technology Monitoring - Digital Strategy, Innovation & Platforms - Cloud Computing - Solution Architecture - Program Management - Change Management - Leadership.
 
-- 🛠️   **Architecting:** Digital platforms and services
-- 🤹🏽   **Expertise:** Architecture & Cloud Computing
-<!-- - 🧑🏽‍💻   **Ask me** about trying out the [MTN Developer Portal](https://developers.mtn.com/) -->
-<!-- - ☕  🧳 🕵🏽  **Fun fact:** Coffee addict | Digital nomad | [INTJ](https://www.kaine.pro/personality) -->
+Find out more [here](https://www.kaine.pro).
 
 ---
 [![AWS Solutions Architect](https://github.com/kainepro/kainepro/blob/master/badges/aws.png)](https://www.youracclaim.com/badges/b97f9d39-8405-496f-94eb-c116b5fd4c8b/public_url)
